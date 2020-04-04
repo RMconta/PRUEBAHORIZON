@@ -1,0 +1,21 @@
+body {
+	background: black;
+}
+
+.cajas {
+	position: relative;
+}
+
+.cajas img {
+		width: 100%;
+		border-radius: 1200px;
+}
+
+.cajas {
+background: black;
+height: 140px;
+width: 140px;
+position: absolute;
+top: 20px;
+left: 602px ;
+}
